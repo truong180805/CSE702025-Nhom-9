@@ -19,7 +19,6 @@
   -	Gắn nhãn, đặt thời gian, ưu tiên
   -	Tự động nhắc nhở công việc
 
-
 ## Công Nghệ Sử Dụng
 
 - **Java**: Ngôn ngữ lập trình chính cho ứng dụng.
@@ -46,7 +45,6 @@
 
 ### Hướng Dẫn Sử Dụng
 * Đăng Nhập:
-
 - Khi ứng dụng khởi động, một cửa sổ đăng nhập sẽ xuất hiện. Nhập thông tin tài khoản:
 - Tài khoản: admin
 - Mật khẩu: password
@@ -59,4 +57,4 @@
 
 * Tìm kiém theo Ngày/Tháng/Năm:
 - Người dùng nhấn nút Ngày/Tháng/Năm rồi nhập thông tin và nhấn nút "Tìm kiếm" là có thể hiện thông tin mà trùng khớp thông tin vừa nhập.
-- Nút "Tắt" để thoát khỏi màn hình Tìm kiếm theo Ngày/Tháng/Tuần.
+- Nút "Tắt" để thoát khỏi màn hình Tìm kiếm theo Ngày/Tháng/Năm.
