@@ -1,8 +1,9 @@
+
 # TO-DO LIST APP
 
 ## Giới Thiệu
 
-"TO-DO LIST APP" là một ứng dụng Java sử dụng giao diện Swing nhằm hỗ trợ người dùng quản lý công việc hàng ngày.
+"TO-DO LIST APP" là một ứng dụng hỗ trợ người dùng quản lý công việc cá nhân hàng ngày.
 
 ### Mục Tiêu
 
@@ -23,3 +24,8 @@
 
 - **Dart**: Ngôn ngữ lập trình chính cho ứng dụng.
 - **Flutter**: Framework được sử dụng để xây dựng giao diện người dùng.
+
+# Phân chia công việc nhóm
+Phân tích yêu cầu và đặc tả: 23010340 Trịnh Đình Thuận
+Thiết kế giao diện+chương trình: 23010371 Nguyễn Văn Trường
+Viết báo cáo: 23010516 Đỗ Trung	Kiên
