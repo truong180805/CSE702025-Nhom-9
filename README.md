@@ -21,9 +21,8 @@
 
 ## Công Nghệ Sử Dụng
 
-- **Java**: Ngôn ngữ lập trình chính cho ứng dụng.
-- **Java Swing**: Thư viện GUI được sử dụng để xây dựng giao diện người dùng.
-- **Maven**: Công cụ quản lý dự án và thư viện, nếu cần thiết.
+- **Dart**: Ngôn ngữ lập trình chính cho ứng dụng.
+- **Flutter**: Framework được sử dụng để xây dựng giao diện người dùng.
 
 ## Cài Đặt
 
@@ -41,7 +40,7 @@
 - Mở IDE mà bạn ưa thích (IntelliJ IDEA, Eclipse, NetBeans, v.v.) và nhập dự án đã clone.
 
 ### Bước 4: Chạy Ứng Dụng
-- Chạy file App.java để khởi động ứng dụng.
+- Chạy file để khởi động ứng dụng.
 
 ### Hướng Dẫn Sử Dụng
 * Đăng Nhập:
