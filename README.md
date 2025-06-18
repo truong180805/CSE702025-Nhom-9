@@ -26,6 +26,6 @@
 - **Flutter**: Framework được sử dụng để xây dựng giao diện người dùng.
 
 # Phân chia công việc nhóm
-- Phân tích yêu cầu và đặc tả: 23010340 Trịnh Đình Thuận
+- Xây dựng biểu đồ và đặc tả usecase: 23010340 Trịnh Đình Thuận
 - Thiết kế giao diện+chương trình: 23010371 Nguyễn Văn Trường
-- Viết báo cáo: 23010516 Đỗ Trung	Kiên
+- Phân tích yêu cầu và viết báo cáo: 23010516 Đỗ Trung	Kiên
