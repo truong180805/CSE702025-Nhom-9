@@ -17,9 +17,9 @@
   
 - **Quản Lý Công Việc**: 
   - Tạo, sửa, xoá công việc
-  -	Gắn nhãn, đặt thời gian, ưu tiên
-  -	Tự động nhắc nhở công việc
-
+  - Xem lịch công việc
+  -	Chỉnh sửa, xóa công việc
+  
 ## Công Nghệ Sử Dụng
 
 - **Dart**: Ngôn ngữ lập trình chính cho ứng dụng.
