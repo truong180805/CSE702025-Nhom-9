@@ -1,9 +1,9 @@
 
-# TO-DO LIST APP
+# ỨNG DỤNG QUẢN LÝ CÔNG VIỆC CÁ NHÂN
 
 ## Giới Thiệu
 
-"TO-DO LIST APP" là một ứng dụng hỗ trợ người dùng quản lý công việc cá nhân hàng ngày.
+"ỨNG DỤNG QUẢN LÝ CÔNG VIỆC CÁ NHÂN" là một ứng dụng hỗ trợ người dùng quản lý công việc cá nhân hàng ngày.
 
 ### Mục Tiêu
 
@@ -12,9 +12,6 @@
 
 ## Tính Năng
 
-- **Đăng Nhập**: 
-  - Người dùng cần đăng nhập với tài khoản hợp lệ để truy cập vào các chức năng của ứng dụng.
-  
 - **Quản Lý Công Việc**: 
   - Tạo, sửa, xoá công việc
   - Xem lịch công việc
